@@ -1,2 +1,2 @@
 # haas-ai_Practical_Application2_11
-Berkeley Haas Projects: Practical Application 2
+Berkeley Haas Practical Application Project 2 [December 4, 2025]

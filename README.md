@@ -11,9 +11,9 @@ Berkeley Haas Practical Application Project 2 [December 4, 2025]
 
 
 ### Dataset:
-- Under folder /data: [vehicle.csv](https://github.com/rbermudezhomes-ai/haas-ai_Practical_Application2_11/blob/main/data/vehicles.csv)
-- Source: UC Irvine Machine Learning Repository - [In Vehicle Coupon Recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
-
+- /data: [vehicle.csv](https://github.com/rbermudezhomes-ai/haas-ai_Practical_Application2_11/blob/main/data/vehicles.csv)
+- Source: [Kaggle Dataset - US Used Cars](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset)
+  
 ### Summary of Findings:
 **The most valuable car features for customers include:**
 - odometer is the top factor. Translating to low mileage is higher price. High mileage is less expensive.
@@ -24,7 +24,6 @@ Berkeley Haas Practical Application Project 2 [December 4, 2025]
 - FWD
 - pickup
 - sedan
-
 
 **By visually examining how the cars are distributed in the dataset, we can gain insight into their dominant features or factors.**
 - Size: Full-size and Medium-size vehicles are the most frequent sizes.

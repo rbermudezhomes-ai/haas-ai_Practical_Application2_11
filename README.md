@@ -15,8 +15,8 @@ Berkeley Haas Practical Application Project 2 [December 4, 2025]
 - Source: [Kaggle Dataset - US Used Cars](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset)
 
 ### Folders:
-- **data folder:** contains the vehicle dataset(.csv)
-- **image folder:** contains image of CRISP-DM Framework and a famous celebrity car salesman.
+- data folder: contains the vehicle dataset(.csv)
+- image folder: contains image of **CRISP-DM Framework** and a photo of a famous car salesman
   
 ### Summary of Findings:
 **The most valuable car features for customers include:**

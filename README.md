@@ -69,7 +69,7 @@ Key factors identified by the Lasso model as having the greatest impact on price
 9. state of Iowa
 10. state of Colorado
 
-*The final model evaluates 91 unique variables that influence car pricing. For a detailed list of all features and their relative impact, please refer to the detailed [Practical_Application_2.ipynb](https://github.com/rbermudezhomes-ai/haas-ai_Practical_Application2_11/blob/main/Practical_Application_2.ipynb).
+*__The final model evaluates 91 unique variables__ that influence car pricing. For a detailed list of all features and their relative impact, please refer to the detailed [Practical_Application_2.ipynb](https://github.com/rbermudezhomes-ai/haas-ai_Practical_Application2_11/blob/main/Practical_Application_2.ipynb).
 
 **Vehicle Inventory Analysis - Key Feature Distributions**
 - Size: Full-size and Medium-size vehicles are the most frequent sizes.

@@ -1,5 +1,5 @@
 # What drives the price of a car?
-Berkeley Haas Practical Application Project 2 [December 4, 2025]
+**Berkeley Haas Practical Application Project 2** [December 4, 2025]
 
 ### Goal:
 This project aims to analyze and identify the specifications, features, and options that determine a car's price. The analysis will use a curated dataset of 426K used cars sourced from a 3 million-record Kaggle collection. This reduced size facilitates quicker data processing. The result of the analysis will provide clear recommendation to our client -- used car dealership -- as to what car features drive the price of the car.
